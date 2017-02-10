@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PROBA1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PROBA1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PROBA1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1681">
+            <state relative-caret-position="510">
               <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Proba.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Proba.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Proba.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="763" column="13" lean-forward="false" selection-start-line="763" selection-start-column="13" selection-end-line="763" selection-end-column="13" />
+            <state relative-caret-position="297">
+              <caret line="77" column="9" lean-forward="false" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -60,6 +60,7 @@
       <find>head</find>
       <find>headi</find>
       <find>headin</find>
+      <find>stron</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -210,15 +211,15 @@
       <workItem from="1480587265319" duration="3934000" />
       <workItem from="1480934087190" duration="3154000" />
       <workItem from="1486741189377" duration="15000" />
-      <workItem from="1486743108727" duration="1718000" />
+      <workItem from="1486743108727" duration="2065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12347000" />
+    <option name="totallyTimeSpent" value="12694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25237092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -264,18 +265,18 @@
     <entry file="file://$PROJECT_DIR$/dsa.css" />
     <entry file="file://$PROJECT_DIR$/dsa.html" />
     <entry file="file://$PROJECT_DIR$/form.html" />
-    <entry file="file://$PROJECT_DIR$/Proba.css">
+    <entry file="file://$PROJECT_DIR$/PROBA1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="763" column="13" lean-forward="false" selection-start-line="763" selection-start-column="13" selection-end-line="763" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROBA1.html">
+    <entry file="file://$PROJECT_DIR$/Proba.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1681">
-          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="297">
+          <caret line="77" column="9" lean-forward="false" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -74,12 +74,13 @@ ul {
     padding-bottom: 0px;
 
 }
-strong {
+
+.heading strong {
 
     font-family: FuturaBT;
     color: #ffffff;
     font-size: 48px;
-    font-weight: 700;
+    font-weight: normal;
     text-align: center;
 }
 
