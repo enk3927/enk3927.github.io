@@ -65,11 +65,13 @@ ul {
     background: url(testbg.png);
     background-size: cover;
 }
-h1  {
+
+.banner h1 {
     font-family: FuturaBT;
     color: #ffffff;
     font-size: 36px;
     font-weight: 300;
+    padding-bottom: 0px;
 
 }
 strong {
@@ -80,6 +82,7 @@ strong {
     font-weight: 700;
     text-align: center;
 }
+
 .banner p {
     width: 600px;
     font: italic 20px 'Calibri', Arial, sans-serif;
@@ -748,7 +751,7 @@ h2.title {
     padding-bottom: 75px;
 }
 
-.heading {
+.testimonials h1.heading{
     color: #3170a8;
     font-size: 40px;
     font-weight: normal;
@@ -758,7 +761,7 @@ h2.title {
     padding-bottom: 41px;
 }
 
-.heading strong {
+.testimonials .heading strong {
     color: #ee8129;
     font-weight: normal;
 }
