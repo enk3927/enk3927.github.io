@@ -915,8 +915,8 @@ h2.title {
 }
 .map {
     content: url(contact-map.png ) ;
-    height: 390px;
-    width: 970px;
+    height: 450px;
+    width: 930px;
     display: inline-block;
 
     float: right;
