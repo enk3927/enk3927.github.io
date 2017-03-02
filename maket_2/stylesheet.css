@@ -134,6 +134,9 @@
 .dotnav a:hover {
     color: #00e0d0;
 }
+.dotnav a:active {
+    color: #1b123c;
+}
 
 
 
