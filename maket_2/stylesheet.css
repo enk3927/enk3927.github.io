@@ -1,6 +1,7 @@
 *  {
     margin: 0;
     padding: 0;
+
 }
 .header {
     color: #fff;
@@ -163,7 +164,7 @@
     padding-bottom: 20px;
 }
 .about p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     color: #403d4b;
     padding-bottom: 20px;
 
@@ -181,12 +182,12 @@
     left: -30px;
 }
 
-.video, {
+.video {
     position: relative;
-    padding-top: 50px;
+
 
     width: 100%;
-    height: 100%;
+    height: 800px;
 }
 iframe {
     position: absolute;
@@ -194,10 +195,152 @@ iframe {
     width: 100%;
     height: 85%;
     overflow: hidden;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 
+/**********************************EXPERTISE********************************/
+.expertise {
+    background-color: #ffffff;
+    margin: 0 auto;
+
+}
+.expertise h1 {
+    font-family: 'Playfair Display', serif;
+    color: #413d4b;
+    font-size: 24px; /* Approximation due to font substitution */
+    font-weight: 700;
+    text-align: center;
+}
+.expertise p {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(51, 51, 51, 0.75);
+    font-size: 14px; /* Approximation due to font substitution */
+    font-weight: 500;
+    line-height: 22px; /* Approximation due to font substitution */
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
 
 
+}
+
+.expertise .h1_hr {
+    display: block;
+    height: 1px;
+    width: 8%;
+    padding-top: 30px;
+
+    border: 0;
+    border-top: 2px solid #c6c4c9;
+    margin: 0 auto;
+}
+.block_section {
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.block_section div {
+    margin: 0 auto;
+    display: inline-block;
+    width: 270px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.block_section div img {
+    padding-bottom: 20px;
+}
+.block_section h5 {
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #413d4b;
+    font-size: 14px; /* Approximation due to font substitution */
+    font-weight: 900;
+    text-align: center;
+}
+.b1,.b2,.b3 {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ebebeb;
+
+}
+.b4,.b5,.b6 {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.top_blocks {
+    display: inline-block;
+    width: 810px;
+}
+
+.b1,.b4,.b2,.b5 {
+    border-right: 1px solid #ebebeb;
+}
+/*****************************team****************************/
+.team {
+    color: #fff;
+    background: #334f6a;
+    text-align: center;
+    background: url(team_bg.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.team h1 {
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
+    font-size: 24px; /* Approximation due to font substitution */
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.team p {
+    font-family: 'Playfair Display', serif;
+    color: #f9f9f9;
+    font-size: 16px; /* Approximation due to font substitution */
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.teammates {
+    padding-bottom: 50px;
+}
+.teammates figure {
+    display: inline-block;
+}
+.hrteam {
+    display: block;
+    height: 1px;
+    width: 5%;
+    padding-top: 30px;
+
+    border: 0;
+    border-top: 2px solid #655c80;
+    margin: 0 auto;
+}
+.teammates span {
+    font-family: 'Roboto', sans-serif;
+    color: #f3f3f3;
+    font-size: 14px; /* Approximation due to font substitution */
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 25px;
+}
+figcaption {
+    padding: 15px;
+    text-align: center;
+    border: solid 1px #e1e1e1;
+    position: relative;
+    top:-2px;
+}
+.name {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 14px; /* Approximation due to font substitution */
+    font-weight: 900;
+    text-align: center;
+}
