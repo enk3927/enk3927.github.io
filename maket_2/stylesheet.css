@@ -378,3 +378,81 @@ figure .position {
 .button_team {
     padding-top: 20px;
 }
+
+/*********************************OUR WORKS************************************/
+.our_works {
+    padding: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+.works_header {
+width: 100%;
+    overflow: hidden;
+}
+.works_header h3{
+    font-family: 'Playfair Display', serif;
+    color: #413d4b;
+    font-size: 22px; /* Approximation due to font substitution */
+    font-weight: 700;
+    text-align: left;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    float: left;
+    position: relative;
+    left: 20%;
+
+}
+.works_header p a{
+    font-family: 'Roboto', sans-serif;
+    color: #413d4b;
+    font-size: 15px; /* Approximation due to font substitution */
+    font-weight: 300;
+    text-align: right;
+    text-decoration: none;
+}
+.works_header p {
+    padding-bottom: 75px;
+    padding-top: 80px;
+    float: right;
+    position: relative;
+    right: 20%;
+
+
+}
+.works_header p a:after {
+    content: url(arrow.png);
+    top: 2px;
+    position: relative;
+    left: 10px;
+
+}
+.works ul li {
+    display: inline-block;
+    margin: -3px;
+    padding: 0;
+}
+.works ul {
+    padding-left: 0px;
+    padding-right: 0px;
+    min-width: 100%;
+    list-style-type: none;
+}
+.button_works {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.button_works a {
+    width: 120px;
+    height: 40px;
+    font-family: 'Hammersmith One', sans-serif;
+    color: #00e0d0;
+    font-size: 16px; /* Approximation due to font substitution */
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #00e0d0;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
