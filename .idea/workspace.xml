@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maket_2/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="171" column="20" lean-forward="false" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+              <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/maket_2/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="438" column="26" lean-forward="false" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+            <state relative-caret-position="364">
+              <caret line="434" column="21" lean-forward="false" selection-start-line="434" selection-start-column="21" selection-end-line="434" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -81,8 +81,8 @@
         <option value="$PROJECT_DIR$/Proba.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheet.css" />
-        <option value="$PROJECT_DIR$/maket_2/stylesheet.css" />
         <option value="$PROJECT_DIR$/maket_2/index.html" />
+        <option value="$PROJECT_DIR$/maket_2/stylesheet.css" />
       </list>
     </option>
   </component>
@@ -245,15 +245,15 @@
       <workItem from="1488614562461" duration="4595000" />
       <workItem from="1488631189332" duration="3364000" />
       <workItem from="1488882881077" duration="2978000" />
-      <workItem from="1489333034338" duration="16483000" />
+      <workItem from="1489333034338" duration="16570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65291000" />
+    <option name="totallyTimeSpent" value="65378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1056" extended-state="1" />
+    <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -489,18 +489,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maket_2/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/maket_2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="438" column="26" lean-forward="false" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+        <state relative-caret-position="529">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maket_2/index.html">
+    <entry file="file://$PROJECT_DIR$/maket_2/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="171" column="20" lean-forward="false" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+        <state relative-caret-position="364">
+          <caret line="434" column="21" lean-forward="false" selection-start-line="434" selection-start-column="21" selection-end-line="434" selection-end-column="21" />
           <folding />
         </state>
       </provider>

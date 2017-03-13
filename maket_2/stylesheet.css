@@ -429,8 +429,12 @@ width: 100%;
 }
 .works ul li {
     display: inline-block;
-    margin: -3px;
-    padding: 0;
+    margin-right: -2px;
+    margin-left: -2px;
+    margin-top: -4px;
+    margin-bottom: -4px;
+
+    padding-top: -1px;
 }
 .works ul {
     padding-left: 0px;
